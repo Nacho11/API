@@ -1,0 +1,21 @@
+This is the 1st version of API.
+Contains 4 files -
+onilne_food_ordering.py - the api
+tests.py - unit tests for the api
+models.py - the database
+API Documentation - The documentation for the API
+
+Technologies -
+1) Python 3.6.4
+2) Flask 0.12.2
+3) sqlalchemy 1.2.2
+
+Getting the API to work-
+Install python3
+Install flask using command - pip3 install Flask
+Install SQLalchemy using command - pip3 install SQLalchemy
+run the file online_food_ordering.py - python3 online_food_ordering.py
+The server should be up and running on the port specified i.e 5000
+In another terminal run the file tests.py - python3 tests.py
+All tests should pass!
+You can test out the API with your own custom input by using POSTMAN.
